@@ -1,0 +1,8 @@
+node_modules/
+.npmignore
+images/
+src/
+.vscode/
+scripts/
+examples/
+package-lock.json
